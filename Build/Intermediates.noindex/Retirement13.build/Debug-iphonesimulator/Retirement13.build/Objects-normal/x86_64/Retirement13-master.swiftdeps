@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "fd262f8a1b1cdaaaa2c9341cc10e3c70"
+build_time: [1628563257, 871760000]
+inputs:
+  "/Users/wei-tsung-cheng/Downloads/Retirement13/Retirement13/ViewController.swift": [1628560967, 683042457]
+  "/Users/wei-tsung-cheng/Downloads/Retirement13/Retirement13/AppDelegate.swift": [1628563257, 781248282]
+  "/Users/wei-tsung-cheng/Downloads/Retirement13/Retirement13/SceneDelegate.swift": [1628560967, 681130507]

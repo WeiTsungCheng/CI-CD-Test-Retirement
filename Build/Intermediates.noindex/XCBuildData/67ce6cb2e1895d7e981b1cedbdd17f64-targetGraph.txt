@@ -1,0 +1,16 @@
+Target dependency graph (7 targets)
+AppCenter in Pods
+Pods-Retirement13 in Pods, depends on:
+AppCenter in Pods (explicit)
+Pods-Retirement13-Retirement13UITests in Pods, depends on:
+AppCenter in Pods (explicit)
+Pods-Retirement13Tests in Pods, depends on:
+Pods-Retirement13 in Pods (explicit)
+Retirement13 in Retirement13, depends on:
+Pods-Retirement13 in Pods (implicit dependency via file 'Pods_Retirement13.framework' in build phase 'Link Binary'
+Retirement13Tests in Retirement13, depends on:
+Retirement13 in Retirement13 (explicit)
+Pods-Retirement13Tests in Pods (implicit dependency via file 'Pods_Retirement13Tests.framework' in build phase 'Link Binary'
+Retirement13UITests in Retirement13, depends on:
+Retirement13 in Retirement13 (explicit)
+Pods-Retirement13-Retirement13UITests in Pods (implicit dependency via file 'Pods_Retirement13_Retirement13UITests.framework' in build phase 'Link Binary'

@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "9f4b23cf5413e96616376e43fad4bb55b11715bda6c4fc4f6228c9a251cfab49"
+    }
+  ],
+  "containerPath" : "/Users/wei-tsung-cheng/Downloads/Retirement13/Retirement13.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wei-tsung-cheng/Downloads/Retirement13/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wei-tsung-cheng/Downloads/Retirement13/Build/Products",
+      "derivedDataPath" : "/Users/wei-tsung-cheng/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wei-tsung-cheng/Library/Developer/Xcode/DerivedData/Retirement13-brntdigihidoxufrxtdtgkuvnaoc/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wei-tsung-cheng/Library/Developer/Xcode/DerivedData/Retirement13-brntdigihidoxufrxtdtgkuvnaoc/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/wei-tsung-cheng/Downloads/Retirement13/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "09CEE5AE-60AB-4C18-8DE4-ECC0D840A613",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
