@@ -236,13 +236,23 @@ SWIFT_CLASS("_TtC12Retirement1313SceneDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UITextField;
+@class UILabel;
 @class NSString;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC12Retirement1314ViewController")
 @interface ViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified monthlyInvestmentsTextField;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified ageTextField;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified retirementAgeTextField;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified interestRateTextField;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified savingsTextField;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified resultLabel;
 - (void)viewDidLoad;
+- (void)viewDidAppear:(BOOL)animated;
+- (IBAction)calculateButton_TouchUpInside:(id _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
