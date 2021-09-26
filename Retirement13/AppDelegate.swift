@@ -14,7 +14,6 @@ import AppCenterAnalytics
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
        
         AppCenter.start(withAppSecret: "ef4daca5-d6ff-47d8-8470-22863785a956", services: [Analytics.self, Crashes.self])

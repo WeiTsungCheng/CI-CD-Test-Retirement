@@ -1,6 +1,0 @@
-Target dependency graph (3 targets)
-AppCenter in Pods, no dependencies
-Pods-Retirement13 in Pods, depends on:
-AppCenter in Pods (explicit)
-Retirement13 in Retirement13, depends on:
-Pods-Retirement13 in Pods (implicit dependency via file 'Pods_Retirement13.framework' in build phase 'Link Binary')
