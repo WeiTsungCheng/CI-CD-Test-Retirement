@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "2dd162deb6295a681df7202097128750"
+build_time: [1631203894, 528852000]
+inputs:
+  "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/Retirement13/ViewController.swift": [1630742462, 715954491]
+  "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/Retirement13/AppDelegate.swift": [1630296499, 234610226]
+  "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/Retirement13/SceneDelegate.swift": [1630742462, 715672719]

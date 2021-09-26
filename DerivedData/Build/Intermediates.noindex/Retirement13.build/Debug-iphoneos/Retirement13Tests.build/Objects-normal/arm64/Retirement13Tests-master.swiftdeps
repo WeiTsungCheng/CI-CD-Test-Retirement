@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "ceb7cd6a6167fb63363a6f9987337310"
+build_time: [1631203904, 482551000]
+inputs:
+  "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/Retirement13Tests/Retirement13Tests.swift": [1630742462, 717522317]
