@@ -1,0 +1,70 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "29713e1f4959a8d1a9a6fa2933c6a482b11715bda6c4fc4f6228c9a251cfab49"
+    },
+    {
+      "guid" : "29713e1f4959a8d1a9a6fa2933c6a48230e607c743898ecc2d47103e30000792"
+    },
+    {
+      "guid" : "29713e1f4959a8d1a9a6fa2933c6a482c4d350bed0aee845ae511cd06d639542"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/DerivedData/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/DerivedData/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/wei-tsung-cheng/Desktop/CI-CD-Course/Retirement13/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphoneos14.5"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "116",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
