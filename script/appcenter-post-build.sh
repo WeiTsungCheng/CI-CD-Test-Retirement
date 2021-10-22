@@ -2,7 +2,7 @@ if [ "$AGENT_JOBSTATUS" == "Succeeded" ]; then
     HOCKEYAPP_API_TOKEN={API_Token}
     HOCKEYAPP_APP_ID={APP_ID}
 
-    # Example: Upload main branch app binary to HockeyApp using the API
+    # Example: Upload main branch app binary to HockeyApp using the API 
     if [ "$APPCENTER_BRANCH" == "main" ];
      then
         curl \
